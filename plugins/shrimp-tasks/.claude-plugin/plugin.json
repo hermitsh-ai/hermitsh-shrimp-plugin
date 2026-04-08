@@ -1,0 +1,21 @@
+{
+  "name": "hermitsh-shrimp",
+  "version": "1.0.0",
+  "description": "Connect Claude to SHrimp — read, create, and manage your tasks from chat. Changes appear on your phone instantly.",
+  "author": {
+    "name": "Hermit Shell",
+    "url": "https://hermitsh.ai"
+  },
+  "homepage": "https://shrimp.hermitsh.ai",
+  "repository": "https://github.com/hermitsh-ai/hermitsh-shrimp-plugin",
+  "license": "MIT",
+  "keywords": [
+    "tasks",
+    "todo",
+    "productivity",
+    "shrimp",
+    "task-management",
+    "hermitsh",
+    "mcp"
+  ]
+}
