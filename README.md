@@ -1,6 +1,6 @@
-# SHrimp — by Hermit Shell
+# SHrimp — by hermitsh
 
-Connect Claude to [SHrimp](https://shrimp.hermitsh.ai), a task management app for iOS. Read, create, organize, and complete tasks directly from chat — changes appear on your phone instantly.
+Manage your tasks from Claude. Create, organize, search, and complete tasks with natural language. Works instantly with zero setup — tasks stored locally. Optionally pair with the SHrimp iOS app for phone sync, email-to-task pipeline, and push notifications.
 
 ## What You Can Do
 
